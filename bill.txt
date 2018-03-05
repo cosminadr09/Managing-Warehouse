@@ -1,0 +1,3 @@
+Numele clientului: Andreea
+Produs comandat: caiet
+Suma de plata: 7.4
